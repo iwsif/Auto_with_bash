@@ -16,6 +16,8 @@ ________________________________________________________________________________
 
 **auto_mariadb.bash**
 
+**Built for ubuntu,debian linux.**
+
 **Install and enable mariadb server.**
 
 *Mariadb is a high performance mysql-server.See documentation on official website.It is recommended to start mariadb secure installation script
@@ -30,13 +32,14 @@ ________________________________________________________________________________
 
 **git_auto.bash**
 
-**Interact with github repo**
+**Built for ubuntu,debian linux.**
 
 **Automation for github.Interact with your github,commit changes,push changes to your repo ...***
 
 Steps:
 
-     
+    
+    
 
 
 
