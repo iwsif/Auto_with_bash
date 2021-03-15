@@ -34,7 +34,8 @@ ________________________________________________________________________________
 
 **Built for ubuntu,debian linux.**
 
-**Automation for github.Interact with your github,commit changes,push changes to your repo ...***
+
+*Automation for github.Interact with your github,commit changes,push changes to your repo ...*
 
 Steps:
      
@@ -43,9 +44,11 @@ Steps:
 
 Options:
      
-     1)Start changes to your repo.
-     2)Commit changes.
-     3)Push changes.
+     1)Communicate with github api.
+     2)Start changes to your repo.
+     3)Commit changes.
+     4)Push changes.
+     5)Remove files from your repo.
      
     
 
