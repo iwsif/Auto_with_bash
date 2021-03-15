@@ -48,7 +48,7 @@ Options:
      2)Start changes to your repo.
      3)Commit changes.
      4)Push changes.
-     5)Remove files from your repo.
+     5)Delete files from your repo.
      
     
 
