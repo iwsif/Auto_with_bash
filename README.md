@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 **auto_mariadb.bash**
 
-**Built for ubuntu,debian linux.**
+**Built for ubuntu,debian linux distros.**
 
 **Script for installing  and enabling mariadb server.**
 
