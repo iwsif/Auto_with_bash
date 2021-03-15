@@ -32,6 +32,11 @@ ________________________________________________________________________________
 
 **Interact with github repo**
 
+**Automation for github.Interact with your github,commit changes,push changes to your repo ...***
+
+Steps:
+
+     
 
 
 
