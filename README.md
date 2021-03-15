@@ -3,7 +3,7 @@
 
 **auto_web.bash**
 
-**Install and enable http,nginx web server**
+**Install and enable http,nginx web server.**
 
 
 Steps:
@@ -16,10 +16,10 @@ ________________________________________________________________________________
 
 **auto_mariadb.bash**
 
-**Install and enable mariadb server**
+**Install and enable mariadb server.**
 
 *Mariadb is a high performance mysql-server.See documentation on official website.It is recommended to start mariadb secure installation script
-before you start operations with maria database.
+before you start operations with maria database.*
 
 Steps:
      
