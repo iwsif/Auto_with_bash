@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 **git_auto.bash**
 
-**Built for ubuntu,debian linux.**
+**Built for ubuntu,debian linux distros.**
 
 
 *Automation for github.Interact with your github,commit changes,push changes to your repo ...*
