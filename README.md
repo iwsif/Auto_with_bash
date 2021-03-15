@@ -26,5 +26,16 @@ Steps:
       1)chmod u+x auto_mariadb.bash 
       2)./auto_mariadb.bash 
       
-       
+______________________________________________________________________________________________
+
+**auto_git.bash**
+
+**Interact with github repo**
+
+
+
+
+
+
+
 
