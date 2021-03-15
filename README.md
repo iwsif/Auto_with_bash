@@ -3,7 +3,7 @@
 
 **auto_web.bash**
 
-**Install and enable http,nginx web server.**
+**Script for installing and enabling http,nginx web server.**
 
 
 Steps:
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 **Built for ubuntu,debian linux.**
 
-**Install and enable mariadb server.**
+**Script for installing  and enabling mariadb server.**
 
 *Mariadb is a high performance mysql-server.See documentation on official website.It is recommended to start mariadb secure installation script
 before you start operations with maria database.*
@@ -37,8 +37,16 @@ ________________________________________________________________________________
 **Automation for github.Interact with your github,commit changes,push changes to your repo ...***
 
 Steps:
+     
+     1)chmod u+x git_auto.bash 
+     2)./git_auto.bash 
 
-    
+Options:
+     
+     1)Start changes to your repo.
+     2)Commit changes.
+     3)Push changes.
+     
     
 
 
